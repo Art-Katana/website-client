@@ -1,0 +1,1874 @@
+
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr-fr"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="fr-fr"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="fr-fr"><![endif]-->
+<!--[if gt IE 8]> <html class="no-js ie9" lang="fr-fr"><![endif]-->
+<html lang="fr-fr">
+	<head>
+		<meta charset="utf-8" />
+		<title>BEAUTY SALOON</title>
+					<meta name="description" content="Shop powered by PrestaShop" />
+						<meta name="generator" content="PrestaShop" />
+		<meta name="robots" content="index,follow" />
+		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1680101754" />
+		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1680101754" />
+														<link rel="stylesheet" href="/themes/default-bootstrap/css/global.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/highdpi.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/responsive-tables.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/uniform.default.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/js/jquery/plugins/fancybox/jquery.fancybox.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/product_list.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockbestsellers/blockbestsellers.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcart/blockcart.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/js/jquery/plugins/bxslider/jquery.bxslider.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/modules/blockfacebook/css/blockfacebook.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockmyaccountfooter/blockmyaccount.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocknewproducts/blocknewproducts.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/js/jquery/plugins/autocomplete/jquery.autocomplete.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockspecials/blockspecials.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocktags/blocktags.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/homeslider/homeslider.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/homefeatured/homefeatured.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/modules/themeconfigurator/css/hooks.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/modules/themeconfigurator/css/theme4.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/modules/paygreen/views/css/footer.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/modules/paygreen/views/css/frontoffice-una-sextus.css" type="text/css" media="all" />
+														<script type="text/javascript">
+var CUSTOMIZE_TEXTFIELD = 1;
+var FancyboxI18nClose = 'Fermer';
+var FancyboxI18nNext = 'Suivant';
+var FancyboxI18nPrev = 'Pr&eacute;c&eacute;dent';
+var ajax_allowed = true;
+var ajaxsearch = true;
+var baseDir = 'https://beautysaloon-shop.fr/';
+var baseUri = 'https://beautysaloon-shop.fr/index.php';
+var blocksearch_type = 'top';
+var contentOnly = false;
+var currency = {"id":2,"name":"Euro","iso_code":"EUR","iso_code_num":"978","sign":"\u20ac","blank":"1","conversion_rate":"1.000000","deleted":"0","format":"2","decimals":"1","active":"1","prefix":"","suffix":" \u20ac","id_shop_list":null,"force_id":false};
+var currencyBlank = 1;
+var currencyFormat = 2;
+var currencyRate = 1;
+var currencySign = '€';
+var customizationIdMessage = 'Personnalisation';
+var delete_txt = 'Supprimer';
+var displayList = false;
+var freeProductTranslation = 'Offert !';
+var freeShippingTranslation = 'Livraison gratuite !';
+var generated_date = 1689718764;
+var hasDeliveryAddress = false;
+var highDPI = false;
+var homeslider_loop = 1;
+var homeslider_pause = 3000;
+var homeslider_speed = 500;
+var homeslider_width = 10000;
+var id_lang = 2;
+var img_dir = 'https://beautysaloon-shop.fr/themes/default-bootstrap/img/';
+var instantsearch = false;
+var isGuest = 0;
+var isLogged = 0;
+var isMobile = false;
+var page_name = 'index';
+var placeholder_blocknewsletter = 'Saisissez votre adresse e-mail';
+var priceDisplayMethod = 0;
+var priceDisplayPrecision = 2;
+var quickView = true;
+var removingLinkText = 'supprimer cet article du panier';
+var roundMode = 2;
+var search_url = 'https://beautysaloon-shop.fr/index.php?controller=search';
+var static_token = 'a4ad918e958ae4a900c7682c5cbdbadd';
+var toBeDetermined = 'À définir';
+var token = '8d860fd9ce6fc88559f1e2107506b89b';
+var usingSecureMode = true;
+</script>
+
+						<script type="text/javascript" src="/js/jquery/jquery-1.11.0.min.js"></script>
+						<script type="text/javascript" src="/js/jquery/jquery-migrate-1.2.1.min.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/jquery.easing.js"></script>
+						<script type="text/javascript" src="/js/tools.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/global.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/autoload/10-bootstrap.min.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/fancybox/jquery.fancybox.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/products-comparison.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/jquery.scrollTo.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/jquery.serialScroll.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/bxslider/jquery.bxslider.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/tools/treeManagement.js"></script>
+						<script type="text/javascript" src="/modules/blockfacebook/blockfacebook.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/autocomplete/jquery.autocomplete.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/index.js"></script>
+							    
+    
+    
+    
+
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,600&amp;subset=latin,latin-ext" type="text/css" media="all" />
+		<!--[if IE 8]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body id="index" class="index hide-left-column hide-right-column lang_fr">
+					<div id="page">
+			<div class="header-container">
+				<header id="header">
+																										<div class="nav">
+							<div class="container">
+								<div class="row">
+									<nav><!-- Block user information module NAV  -->
+<div class="header_user_info">
+			<a class="login" href="https://beautysaloon-shop.fr/index.php?controller=my-account" rel="nofollow" title="Identifiez-vous">
+			Connexion
+		</a>
+	</div>
+<!-- /Block usmodule NAV -->
+<!-- Block currencies module -->
+<!-- /Block currencies module -->
+<!-- Block languages module -->
+<!-- /Block languages module -->
+</nav>
+								</div>
+							</div>
+						</div>
+										<div>
+						<div class="container">
+							<div class="row">
+								<div id="header_logo">
+									<a href="https://beautysaloon-shop.fr/" title="BEAUTY SALOON">
+										<img class="logo img-responsive" src="https://beautysaloon-shop.fr/img/my-shop-logo-1568018007.jpg" alt="BEAUTY SALOON" width="992" height="455"/>
+									</a>
+								</div>
+								<!-- Block search module TOP -->
+<div id="search_block_top" class="col-sm-4 clearfix">
+	<form id="searchbox" method="get" action="//beautysaloon-shop.fr/index.php?controller=search" >
+		<input type="hidden" name="controller" value="search" />
+		<input type="hidden" name="orderby" value="position" />
+		<input type="hidden" name="orderway" value="desc" />
+		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="Rechercher" value="" />
+		<button type="submit" name="submit_search" class="btn btn-default button-search">
+			<span>Rechercher</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP --><!-- MODULE Block cart -->
+<div class="col-sm-4 clearfix">
+	<div class="shopping_cart">
+		<a href="https://beautysaloon-shop.fr/index.php?controller=order" title="Voir mon panier" rel="nofollow">
+			<b>Panier</b>
+			<span class="ajax_cart_quantity unvisible">0</span>
+			<span class="ajax_cart_product_txt unvisible">Produit</span>
+			<span class="ajax_cart_product_txt_s unvisible">Produits</span>
+			<span class="ajax_cart_total unvisible">
+							</span>
+			<span class="ajax_cart_no_product">(vide)</span>
+					</a>
+					<div class="cart_block block exclusive">
+				<div class="block_content">
+					<!-- block list of products -->
+					<div class="cart_block_list">
+												<p class="cart_block_no_products">
+							Aucun produit
+						</p>
+																		<div class="cart-prices">
+							<div class="cart-prices-line first-line">
+								<span class="price cart_block_shipping_cost ajax_cart_shipping_cost unvisible">
+																			 À définir																	</span>
+								<span class="unvisible">
+									Livraison
+								</span>
+							</div>
+																						<div class="cart-prices-line">
+									<span class="price cart_block_tax_cost ajax_cart_tax_cost">0,00 €</span>
+									<span>Taxes</span>
+								</div>
+														<div class="cart-prices-line last-line">
+								<span class="price cart_block_total ajax_block_cart_total">0,00 €</span>
+								<span>Total</span>
+							</div>
+															<p>
+																	Les prix sont TTC
+																</p>
+													</div>
+						<p class="cart-buttons">
+							<a id="button_order_cart" class="btn btn-default button button-small" href="https://beautysaloon-shop.fr/index.php?controller=order" title="Commander" rel="nofollow">
+								<span>
+									Commander<i class="icon-chevron-right right"></i>
+								</span>
+							</a>
+						</p>
+					</div>
+				</div>
+			</div><!-- .cart_block -->
+			</div>
+</div>
+
+	<div id="layer_cart">
+		<div class="clearfix">
+			<div class="layer_cart_product col-xs-12 col-md-6">
+				<span class="cross" title="Fermer la fenêtre"></span>
+				<span class="title">
+					<i class="icon-check"></i>Produit ajouté au panier avec succès
+				</span>
+				<div class="product-image-container layer_cart_img">
+				</div>
+				<div class="layer_cart_product_info">
+					<span id="layer_cart_product_title" class="product-name"></span>
+					<span id="layer_cart_product_attributes"></span>
+					<div>
+						<strong class="dark">Quantité</strong>
+						<span id="layer_cart_product_quantity"></span>
+					</div>
+					<div>
+						<strong class="dark">Total</strong>
+						<span id="layer_cart_product_price"></span>
+					</div>
+				</div>
+			</div>
+			<div class="layer_cart_cart col-xs-12 col-md-6">
+				<span class="title">
+					<!-- Plural Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt_s  unvisible">
+						Il y a <span class="ajax_cart_quantity">0</span> produits dans votre panier.
+					</span>
+					<!-- Singular Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt ">
+						Il y a 1 produit dans votre panier.
+					</span>
+				</span>
+				<div class="layer_cart_row">
+					<strong class="dark">
+						Total produits
+																					TTC
+																		</strong>
+					<span class="ajax_block_products_total">
+											</span>
+				</div>
+
+								<div class="layer_cart_row">
+					<strong class="dark unvisible">
+						Frais de port&nbsp;TTC					</strong>
+					<span class="ajax_cart_shipping_cost unvisible">
+													 À définir											</span>
+				</div>
+									<div class="layer_cart_row">
+						<strong class="dark">Taxes</strong>
+						<span class="price cart_block_tax_cost ajax_cart_tax_cost">0,00 €</span>
+					</div>
+								<div class="layer_cart_row">
+					<strong class="dark">
+						Total
+																					TTC
+																		</strong>
+					<span class="ajax_block_cart_total">
+											</span>
+				</div>
+				<div class="button-container">
+					<span class="continue btn btn-default button exclusive-medium" title="Continuer mes achats">
+						<span>
+							<i class="icon-chevron-left left"></i>Continuer mes achats
+						</span>
+					</span>
+					<a class="btn btn-default button button-medium"	href="https://beautysaloon-shop.fr/index.php?controller=order" title="Commander" rel="nofollow">
+						<span>
+							Commander<i class="icon-chevron-right right"></i>
+						</span>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="crossseling"></div>
+	</div> <!-- #layer_cart -->
+	<div class="layer_cart_overlay"></div>
+
+<!-- /MODULE Block cart -->
+	<!-- Menu -->
+	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
+		<div class="cat-title">Menu</div>
+		<ul class="sf-menu clearfix menu-content">
+			<li><a href="https://beautysaloon-shop.fr/index.php" title="Home">Home</a><ul><li><a href="https://beautysaloon-shop.fr/index.php?id_category=3&amp;controller=category" title="TISSAGE L.U.X.E">TISSAGE L.U.X.E</a><ul><li><a href="https://beautysaloon-shop.fr/index.php?id_category=4&amp;controller=category" title="Gamme "Classique"">Gamme "Classique"</a><ul></ul></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=8&amp;controller=category" title="Gamme "Slim & Full"">Gamme "Slim & Full"</a><ul></ul></li></ul></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=13&amp;controller=category" title="RdV & Acompte">RdV & Acompte</a></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=14&amp;controller=category" title="LISSEURS">LISSEURS</a></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=15&amp;controller=category" title="COSMETIQUES & ENTRETIENT">COSMETIQUES & ENTRETIENT</a></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=16&amp;controller=category" title="TISSAGE">TISSAGE</a><ul><li><a href="https://beautysaloon-shop.fr/index.php?id_category=17&amp;controller=category" title="LISSE">LISSE</a></li></ul></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=18&amp;controller=category" title="KIT LISSAGE TANIN PRO">KIT LISSAGE TANIN PRO</a></li></ul></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=3&amp;controller=category" title="TISSAGE L.U.X.E">TISSAGE L.U.X.E</a><ul><li><a href="https://beautysaloon-shop.fr/index.php?id_category=4&amp;controller=category" title="Gamme "Classique"">Gamme "Classique"</a><ul></ul></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=8&amp;controller=category" title="Gamme "Slim & Full"">Gamme "Slim & Full"</a><ul></ul></li></ul></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=18&amp;controller=category" title="KIT LISSAGE TANIN PRO">KIT LISSAGE TANIN PRO</a></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=14&amp;controller=category" title="LISSEURS">LISSEURS</a></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=15&amp;controller=category" title="COSMETIQUES & ENTRETIENT">COSMETIQUES & ENTRETIENT</a></li><li><a href="https://beautysaloon-shop.fr/index.php?id_category=13&amp;controller=category" title="RdV & Acompte">RdV & Acompte</a></li>
+					</ul>
+	</div>
+	<!--/ Menu -->
+							</div>
+						</div>
+					</div>
+				</header>
+			</div>
+			<div class="columns-container">
+				<div id="columns" class="container">
+										<div id="slider_row" class="row">
+																			<div id="top_column" class="center_column col-xs-12 col-sm-12"><!-- Module HomeSlider -->
+    		<div id="homepage-slider">
+						<ul id="homeslider" style="max-height:388px;">
+															<li class="homeslider-container">
+							<a href="https://beautysaloon-shop.fr/index.php?id_category=3&amp;controller=category" title="sample-2">
+								<img src="https://beautysaloon-shop.fr/modules/homeslider/images/e1bce31dba7dff1770e93ecb6c86f070d0cee8ad_Blonde baddies NEW 2.png" width="1388" height="388" alt="sample-2" />
+							</a>
+															<div class="homeslider-description"><h2><span style="color:#7cd320;"><span style="color:#ffd800;">Nouvelle Gamme de Tissage :</span> <span style="color:#ffffff;">Slim &amp; Full</span></span></h2>
+<p><button class="btn btn-default" type="button">Shop now ! </button></p></div>
+													</li>
+																				<li class="homeslider-container">
+							<a href="http://beautysaloon-shop.fr/index.php?id_category=18&amp;controller=category" title="sample-3">
+								<img src="https://beautysaloon-shop.fr/modules/homeslider/images/c6ff5c175943aa6f4e634663d494f3797858c254_033eb8c1dba507e4e83a56466ea58949e4fee2f3_TANINO THERAPY PROMO BEAUTY SALOON.jpg" width="1458" height="412" alt="sample-3" />
+							</a>
+															<div class="homeslider-description"><h2><span style="color:#ffe000;">! NEW ! </span></h2>
+<p></p>
+<h2>KIT PRO 1L.</h2>
+<h3>TANINOTHERAPY</h3>
+<address></address>
+<p><button class="btn btn-default" type="button">Shop now !</button></p>
+<div id="gtx-trans">
+<div class="gtx-trans-icon"></div>
+</div></div>
+													</li>
+																				<li class="homeslider-container">
+							<a href="index.php?id_category=3&amp;controller=category" title="sample-1">
+								<img src="https://beautysaloon-shop.fr/modules/homeslider/images/b4374ed3ef3b57b239f6dfbbbe1b5da4697d3358_slider livraison gratuire JAUNE.JPG" width="1462" height="412" alt="sample-1" />
+							</a>
+															<div class="homeslider-description"><h3>Cheveux aux cuticules</h3>
+<h2>intactes et alignées</h2>
+<h3><span style="color:#ffd100;"><em><strong>NEW: LIVRAISON GRATUITE</strong></em></span></h3>
+<p><span style="color:#ffd100;"><b><i>Sur les tissages et extensions</i></b></span></p>
+<p></p>
+<p><button class="btn btn-default" type="button">Shop now !</button></p></div>
+													</li>
+												</ul>
+		</div>
+	<!-- /Module HomeSlider -->
+</div>
+											</div>
+					<div class="row">
+																		<div id="center_column" class="center_column col-xs-12 col-sm-12">
+	            <ul id="home-page-tabs" class="nav nav-tabs clearfix">
+			<li><a data-toggle="tab" href="#homefeatured" class="homefeatured">Populaire</a></li><li><a data-toggle="tab" href="#blockbestsellers" class="blockbestsellers">Meilleures Ventes</a></li>
+		</ul>
+		<div class="tab-content">		
+									
+		
+	
+	<!-- Products list -->
+	<ul id="homefeatured" class="product_list grid row homefeatured tab-pane">
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=31&amp;controller=product" title="K18 - MASQUE  Leave-In Molecular Repair Hair 5 ml" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/6/1/61-home_default.jpg" alt="K18 - MASQUE  Leave-In Molecular Repair Hair 50 ml" title="K18 - MASQUE  Leave-In Molecular Repair Hair 50 ml"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=31&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=31&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=31&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=31&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										23,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
+																		
+									
+															</div>
+																									<a class="sale-box" href="https://beautysaloon-shop.fr/index.php?id_product=31&amp;controller=product">
+								<span class="sale-label">Promo !</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=31&amp;controller=product" title="K18 - MASQUE  Leave-In Molecular Repair Hair 5 ml" itemprop="url" >
+							K18 - MASQUE  Leave-In Molecular Repair...
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						K 18 PEPTIDE 
+Après 10 ans de recherche scientifique, une séquence unique a été découverte qui peut restaurer les cheveux endommagés chimiquement et mécaniquement à leur état d’origine et de jeunesse – le K18Peptide.
+Le K18Peptide breveté n’est pas une solution temporaire – c’est le premier produit à réparer durablement les chaînes kératiniques brisées...
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								23,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://beautysaloon-shop.fr/index.php?controller=cart&amp;add=1&amp;id_product=31&amp;token=a4ad918e958ae4a900c7682c5cbdbadd" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="0" data-id-product="31" data-minimal_quantity="1">
+									<span>Ajouter au panier</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=31&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										Disponible									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=32&amp;controller=product" title="K18 - MASQUE  Leave-In Molecular Repair Hair 5 ml  ( x3 )" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/6/4/64-home_default.jpg" alt="K18 - MASQUE  Leave-In Molecular Repair Hair 50 ml" title="K18 - MASQUE  Leave-In Molecular Repair Hair 50 ml"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=32&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=32&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=32&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=32&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										34,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
+																		
+									
+															</div>
+																									<a class="sale-box" href="https://beautysaloon-shop.fr/index.php?id_product=32&amp;controller=product">
+								<span class="sale-label">Promo !</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=32&amp;controller=product" title="K18 - MASQUE  Leave-In Molecular Repair Hair 5 ml  ( x3 )" itemprop="url" >
+							K18 - MASQUE  Leave-In Molecular Repair...
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						K 18 PEPTIDE 
+Après 10 ans de recherche scientifique, une séquence unique a été découverte qui peut restaurer les cheveux endommagés chimiquement et mécaniquement à leur état d’origine et de jeunesse – le K18Peptide.
+Le K18Peptide breveté n’est pas une solution temporaire – c’est le premier produit à réparer durablement les chaînes kératiniques brisées...
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								34,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://beautysaloon-shop.fr/index.php?controller=cart&amp;add=1&amp;id_product=32&amp;token=a4ad918e958ae4a900c7682c5cbdbadd" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="0" data-id-product="32" data-minimal_quantity="1">
+									<span>Ajouter au panier</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=32&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										Disponible									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product" title="OLAPLEX N°3" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/3/0/30-home_default.jpg" alt="OLAPLEX N°3" title="OLAPLEX N°3"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										25,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
+																		
+									
+															</div>
+																							</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product" title="OLAPLEX N°3" itemprop="url" >
+							OLAPLEX N°3
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						N°3 est la troisième étape du protocole olaplex en salon et à destination du grand public.
+Son objectif est de contribuer à rétablir les liaisons capillaires et de garder les cheveux en pleine forme entre deux techniques.
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								25,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://beautysaloon-shop.fr/index.php?controller=cart&amp;add=1&amp;id_product=11&amp;token=a4ad918e958ae4a900c7682c5cbdbadd" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="0" data-id-product="11" data-minimal_quantity="1">
+									<span>Ajouter au panier</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										Disponible									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product" title="KEUNE SHAMPOOING MOISTURISING Ch. sec" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/3/2/32-home_default.jpg" alt="KEUNE SHAMPOOING MOISTURISING Ch. sec" title="KEUNE SHAMPOOING MOISTURISING Ch. sec"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										19,20 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/OutOfStock" />Rupture de stock
+																					</span>
+																		
+									
+															</div>
+																							</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product" title="KEUNE SHAMPOOING MOISTURISING Ch. sec" itemprop="url" >
+							KEUNE SHAMPOOING MOISTURISING Ch. sec
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						SO PURE MOISTURIZING SHAMPOO
+Un shampooing riche qui répare et régule l’hydratation naturelle des cheveux et du cuir chevelu.
+SANS SULFATES, adapté aux lissages brésiliens et aux extensions de cheveux
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								19,20 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Ajouter au panier</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="label-danger">
+										Rupture de stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line last-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=29&amp;controller=product" title="K18 - MASQUE  Leave-In Molecular Repair Hair 50 ml" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/5/4/54-home_default.jpg" alt="K18 - MASQUE  Leave-In Molecular Repair Hair 50 ml" title="K18 - MASQUE  Leave-In Molecular Repair Hair 50 ml"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=29&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=29&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=29&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=29&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										74,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
+																		
+									
+															</div>
+																									<a class="sale-box" href="https://beautysaloon-shop.fr/index.php?id_product=29&amp;controller=product">
+								<span class="sale-label">Promo !</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=29&amp;controller=product" title="K18 - MASQUE  Leave-In Molecular Repair Hair 50 ml" itemprop="url" >
+							K18 - MASQUE  Leave-In Molecular Repair...
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						K 18 PEPTIDE 
+Après 10 ans de recherche scientifique, une séquence unique a été découverte qui peut restaurer les cheveux endommagés chimiquement et mécaniquement à leur état d’origine et de jeunesse – le K18Peptide.
+Le K18Peptide breveté n’est pas une solution temporaire – c’est le premier produit à réparer durablement les chaînes kératiniques brisées...
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								74,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://beautysaloon-shop.fr/index.php?controller=cart&amp;add=1&amp;id_product=29&amp;token=a4ad918e958ae4a900c7682c5cbdbadd" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="0" data-id-product="29" data-minimal_quantity="1">
+									<span>Ajouter au panier</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=29&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										Disponible									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line last-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product" title="MASQUE ENTRETIENT LISSAGE TANIN / ENZYMO" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/5/1/51-home_default.jpg" alt="MASQUE ENTRETIENT LISSAGE TANIN / ENZYMO" title="MASQUE ENTRETIENT LISSAGE TANIN / ENZYMO"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										29,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																											
+									
+															</div>
+																							</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product" title="MASQUE ENTRETIENT LISSAGE TANIN / ENZYMO" itemprop="url" >
+							MASQUE ENTRETIENT LISSAGE TANIN / ENZYMO
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						Masque spécial entretient
+pour votre lissage au tanin ou lissage enzymo
+Nota:
+A la demande de la marque, la vente en ligne est suspendu momentanément
+Vente uniquement en salon:
+SHOW ROOM
+BEAUTY SALOON
+68 Avenue de la Grande Armée
+75017 PARIS
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								29,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+												<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																				</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line first-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=20&amp;controller=product" title="TISSAGE" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/3/8/38-home_default.jpg" alt="TISSAGE" title="TISSAGE"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=20&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=20&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=20&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=20&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										60,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/OutOfStock" />Rupture de stock
+																					</span>
+																		
+									
+															</div>
+																							</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=20&amp;controller=product" title="TISSAGE" itemprop="url" >
+							TISSAGE
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						TISSAGE
+Cheveux 100% humains vierges cuticules alignées
+Coloration et décoloration possible 
+pack de 100 gr. environ
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								60,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Ajouter au panier</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=20&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="label-danger">
+										Rupture de stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-in-line last-line last-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product" title="KIT TANINO THERAPY 1 LITRE | Kit Lissage TANIN PRO" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/4/4/44-home_default.jpg" alt="KIT TANINO THERAPY 1 LITRE" title="KIT TANINO THERAPY 1 LITRE"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										279,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
+																		
+									
+															</div>
+																									<a class="sale-box" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product">
+								<span class="sale-label">Promo !</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product" title="KIT TANINO THERAPY 1 LITRE | Kit Lissage TANIN PRO" itemprop="url" >
+							KIT TANINO THERAPY 1 LITRE | Kit Lissage...
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						KIT TANINO THERAPY  1 LITRE
+LISSAGE AU TANIN ++
+LA TANINO THERAPY SELON SALVATORE
+**PRODUIT ORIGINAL**
+réservé aux professionnels 
+PROMO NOVEMBRE 2020 
+-30% sur le KIT TANINO THERAPY
+C'est le moment de foncer !
+CODE PROMO: NOVEMBRETANINO30
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								279,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://beautysaloon-shop.fr/index.php?controller=cart&amp;add=1&amp;id_product=22&amp;token=a4ad918e958ae4a900c7682c5cbdbadd" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="0" data-id-product="22" data-minimal_quantity="1">
+									<span>Ajouter au panier</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										Disponible									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+		</ul>
+
+
+
+
+
+		
+									
+		
+	
+	<!-- Products list -->
+	<ul id="blockbestsellers" class="product_list grid row blockbestsellers tab-pane">
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=10&amp;controller=product" title="TISSAGE BRÉSILIEN LISSE gamme L.U.X.E | &amp; Malaisien" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/2/8/28-home_default.jpg" alt="TISSAGE LISSE L.U.X.E" title="TISSAGE LISSE L.U.X.E"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=10&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=10&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=10&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=10&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										80,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
+																		
+									
+															</div>
+																							</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=10&amp;controller=product" title="TISSAGE BRÉSILIEN LISSE gamme L.U.X.E | &amp; Malaisien" itemprop="url" >
+							TISSAGE BRÉSILIEN LISSE gamme L.U.X.E | &amp;...
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						TISSAGE BRESILIEN / MALAISIEN L.U.X.E
+Cheveux 100% humains vierges cuticules alignées
+Tissage fourni aux pointes pour plus de volume ( pas d'effet queue de rat !)
+Coloration et décoloration possible 
+pack de 100 gr. environ
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								80,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://beautysaloon-shop.fr/index.php?controller=cart&amp;add=1&amp;id_product=10&amp;ipa=46&amp;token=a4ad918e958ae4a900c7682c5cbdbadd" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="46" data-id-product="10" data-minimal_quantity="1">
+									<span>Ajouter au panier</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=10&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										Disponible									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product" title="KIT TANINO THERAPY 1 LITRE | Kit Lissage TANIN PRO" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/4/4/44-home_default.jpg" alt="KIT TANINO THERAPY 1 LITRE" title="KIT TANINO THERAPY 1 LITRE"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										279,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
+																		
+									
+															</div>
+																									<a class="sale-box" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product">
+								<span class="sale-label">Promo !</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product" title="KIT TANINO THERAPY 1 LITRE | Kit Lissage TANIN PRO" itemprop="url" >
+							KIT TANINO THERAPY 1 LITRE | Kit Lissage...
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						KIT TANINO THERAPY  1 LITRE
+LISSAGE AU TANIN ++
+LA TANINO THERAPY SELON SALVATORE
+**PRODUIT ORIGINAL**
+réservé aux professionnels 
+PROMO NOVEMBRE 2020 
+-30% sur le KIT TANINO THERAPY
+C'est le moment de foncer !
+CODE PROMO: NOVEMBRETANINO30
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								279,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://beautysaloon-shop.fr/index.php?controller=cart&amp;add=1&amp;id_product=22&amp;token=a4ad918e958ae4a900c7682c5cbdbadd" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="0" data-id-product="22" data-minimal_quantity="1">
+									<span>Ajouter au panier</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=22&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										Disponible									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=24&amp;controller=product" title="SHAMPOOING ENTRETIENT LISSAGE TANIN / ENZYMO" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/5/0/50-home_default.jpg" alt="SHAMPOOING ENTRETIENT LISSAGE TANIN / ENZYMO" title="SHAMPOOING ENTRETIENT LISSAGE TANIN / ENZYMO"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=24&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=24&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=24&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=24&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										24,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																											
+									
+															</div>
+																							</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=24&amp;controller=product" title="SHAMPOOING ENTRETIENT LISSAGE TANIN / ENZYMO" itemprop="url" >
+							SHAMPOOING ENTRETIENT LISSAGE TANIN / ENZYMO
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						Shampooing spécial entretient 
+pour votre lissage au tanin ou lissage enzymo
+Nota:
+A la demande de la marque, la vente en ligne est suspendu momentanément
+Vente uniquement en salon:
+SHOW ROOM
+BEAUTY SALOON
+68 Avenue de la Grande Armée
+75017 PARIS
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								24,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+												<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=24&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																				</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product" title="MASQUE ENTRETIENT LISSAGE TANIN / ENZYMO" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/5/1/51-home_default.jpg" alt="MASQUE ENTRETIENT LISSAGE TANIN / ENZYMO" title="MASQUE ENTRETIENT LISSAGE TANIN / ENZYMO"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										29,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																											
+									
+															</div>
+																							</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product" title="MASQUE ENTRETIENT LISSAGE TANIN / ENZYMO" itemprop="url" >
+							MASQUE ENTRETIENT LISSAGE TANIN / ENZYMO
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						Masque spécial entretient
+pour votre lissage au tanin ou lissage enzymo
+Nota:
+A la demande de la marque, la vente en ligne est suspendu momentanément
+Vente uniquement en salon:
+SHOW ROOM
+BEAUTY SALOON
+68 Avenue de la Grande Armée
+75017 PARIS
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								29,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+												<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=25&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																				</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=8&amp;controller=product" title="LISSEUR CORIOLISS IRED | Lisseur INFRAROUGE" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/2/4/24-home_default.jpg" alt="LISSEUR CORIOLISS IRED" title="LISSEUR CORIOLISS IRED"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=8&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=8&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=8&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=8&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										129,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/OutOfStock" />Rupture de stock
+																					</span>
+																		
+									
+															</div>
+																									<a class="sale-box" href="https://beautysaloon-shop.fr/index.php?id_product=8&amp;controller=product">
+								<span class="sale-label">Promo !</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=8&amp;controller=product" title="LISSEUR CORIOLISS IRED | Lisseur INFRAROUGE" itemprop="url" >
+							LISSEUR CORIOLISS IRED | Lisseur INFRAROUGE
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						DERNIERES TECHNOLOGIES INFRAROUGE: Lisseur-boucleur 100 % infrarouge pour des cheveux brillants, faciles à coiffer et en bonne santé ! 
+Double technologie infrarouge: son élément chauffant et sa lumière LED fonctionnent tous les deux à rayonnement infrarouge. 
+Préserve l'hydratation naturelle et reconstitue la fibre capillaire
+PROMO! Actuellement en promo...
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								129,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Ajouter au panier</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=8&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class="label-danger">
+										Rupture de stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=26&amp;controller=product" title="HUILE TANIN ET ARGAN" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/5/2/52-home_default.jpg" alt="HUILE TANIN ET ARGAN" title="HUILE TANIN ET ARGAN"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=26&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=26&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=26&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=26&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										29,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																											
+									
+															</div>
+																							</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=26&amp;controller=product" title="HUILE TANIN ET ARGAN" itemprop="url" >
+							HUILE TANIN ET ARGAN
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						HUILE spécial entretient lissage TANIN et ENZYMO
+pour votre lissage au tanin ou lissage enzymo, mais pas seulement !
+Nota:
+A la demande de la marque, la vente en ligne est suspendu momentanément
+Vente uniquement en salon:
+SHOW ROOM
+BEAUTY SALOON
+68 Avenue de la Grande Armée
+75017 PARIS
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								29,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+												<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=26&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																				</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product" title="KEUNE SHAMPOOING MOISTURISING Ch. sec" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/3/2/32-home_default.jpg" alt="KEUNE SHAMPOOING MOISTURISING Ch. sec" title="KEUNE SHAMPOOING MOISTURISING Ch. sec"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										19,20 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/OutOfStock" />Rupture de stock
+																					</span>
+																		
+									
+															</div>
+																							</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product" title="KEUNE SHAMPOOING MOISTURISING Ch. sec" itemprop="url" >
+							KEUNE SHAMPOOING MOISTURISING Ch. sec
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						SO PURE MOISTURIZING SHAMPOO
+Un shampooing riche qui répare et régule l’hydratation naturelle des cheveux et du cuir chevelu.
+SANS SULFATES, adapté aux lissages brésiliens et aux extensions de cheveux
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								19,20 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Ajouter au panier</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=12&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="label-danger">
+										Rupture de stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-in-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=13&amp;controller=product" title="REVITALASH | SERUM BOOSTER LONGUEUR CILS" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/3/5/35-home_default.jpg" alt="REVITALASH" title="REVITALASH"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=13&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=13&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=13&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=13&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										69,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
+																		
+									
+															</div>
+																									<a class="sale-box" href="https://beautysaloon-shop.fr/index.php?id_product=13&amp;controller=product">
+								<span class="sale-label">Promo !</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=13&amp;controller=product" title="REVITALASH | SERUM BOOSTER LONGUEUR CILS" itemprop="url" >
+							REVITALASH | SERUM BOOSTER LONGUEUR CILS
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						Revitalash, les soins des cils et sourcils n°1 pour un regard sublimé.
+Cliniquement testés et développés, les sérums boosters de cils par Revitalash ravivent vos cils avec douceur et expertise. 
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								69,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://beautysaloon-shop.fr/index.php?controller=cart&amp;add=1&amp;id_product=13&amp;token=a4ad918e958ae4a900c7682c5cbdbadd" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="0" data-id-product="13" data-minimal_quantity="1">
+									<span>Ajouter au panier</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=13&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class=" label-warning">
+										Disponible									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line last-line last-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product" title="OLAPLEX N°3" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/3/0/30-home_default.jpg" alt="OLAPLEX N°3" title="OLAPLEX N°3"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										25,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
+																		
+									
+															</div>
+																							</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product" title="OLAPLEX N°3" itemprop="url" >
+							OLAPLEX N°3
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						N°3 est la troisième étape du protocole olaplex en salon et à destination du grand public.
+Son objectif est de contribuer à rétablir les liaisons capillaires et de garder les cheveux en pleine forme entre deux techniques.
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								25,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://beautysaloon-shop.fr/index.php?controller=cart&amp;add=1&amp;id_product=11&amp;token=a4ad918e958ae4a900c7682c5cbdbadd" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="0" data-id-product="11" data-minimal_quantity="1">
+									<span>Ajouter au panier</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=11&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										Disponible									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line first-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://beautysaloon-shop.fr/index.php?id_product=14&amp;controller=product" title="REVITALASH Big Size | SERUM BOOSTER LONGUEUR CIL" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://beautysaloon-shop.fr/img/p/3/7/37-home_default.jpg" alt="REVITALASH" title="REVITALASH"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="https://beautysaloon-shop.fr/index.php?id_product=14&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=14&amp;controller=product">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="https://beautysaloon-shop.fr/index.php?id_product=14&amp;controller=product" rel="https://beautysaloon-shop.fr/index.php?id_product=14&amp;controller=product">
+							<span>Aper&ccedil;u rapide</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										109,00 €									</span>
+									<meta itemprop="priceCurrency" content="EUR" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/OutOfStock" />Rupture de stock
+																					</span>
+																		
+									
+															</div>
+																									<a class="sale-box" href="https://beautysaloon-shop.fr/index.php?id_product=14&amp;controller=product">
+								<span class="sale-label">Promo !</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="https://beautysaloon-shop.fr/index.php?id_product=14&amp;controller=product" title="REVITALASH Big Size | SERUM BOOSTER LONGUEUR CIL" itemprop="url" >
+							REVITALASH Big Size | SERUM BOOSTER...
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						Revitalash, les soins des cils et sourcils n°1 pour un regard sublimé.
+Cliniquement testés et développés, les sérums boosters de cils par Revitalash ravivent vos cils avec douceur et expertise. 
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								109,00 €							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Ajouter au panier</span>
+								</span>
+																			<a class="button lnk_view btn btn-default" href="https://beautysaloon-shop.fr/index.php?id_product=14&amp;controller=product" title="Afficher">
+							<span>D&eacute;tails</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class="label-danger">
+										Rupture de stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+		</ul>
+
+
+
+
+
+</div>
+	<div class="clearfix"><div id="fb-root"></div>
+<div id="facebook_block" class="col-xs-4">
+	<h4 >Suivez-nous sur Facebook</h4>
+	<div class="facebook-fanbox">
+		<div class="fb-like-box" data-href="https://www.facebook.com/BeautySaloonParis/" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false">
+		</div>
+	</div>
+</div>
+</div>
+					</div><!-- #center_column -->
+										</div><!-- .row -->
+				</div><!-- #columns -->
+			</div><!-- .columns-container -->
+							<!-- Footer -->
+				<div class="footer-container">
+					<footer id="footer"  class="container">
+						<div class="row">
+<section id="block_paygreen_infos" class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+        <img src="/modules/paygreen/views/img/FOPayment/footer/lock-green.png" />
+    <span class="green">Paiement sécurisé par : </span>
+
+    <a href="http://paygreen.io/paiement-securise/" target="_blank" title="paygreen" >
+                <img src="/modules/paygreen/views/img/FOPayment/footer/paygreen-green.png" alt="Paiement sécurisé par PayGreen" />
+    </a>
+</section>
+<!-- Block categories module -->
+<section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
+	<h4>Catégories</h4>
+	<div class="category_footer toggle-footer">
+		<div class="list">
+			<ul class="tree dhtml">
+												
+<li >
+	<a 
+	href="https://beautysaloon-shop.fr/index.php?id_category=3&amp;controller=category" title="Retrouvez ici notre gamme L.U.X.E.  
+ Tissage plus fournis aux pointes , 
+ Cheveux vierges et cuticules alignées. 
+  
+  
+   TARIF SPECIAL INTERNET ">
+		TISSAGE L.U.X.E
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="https://beautysaloon-shop.fr/index.php?id_category=4&amp;controller=category" title="Choisissez votre longueur préférée 
+ du 16&quot; au 24&quot; dans notre gamme L.U.X.E ">
+		Gamme &quot;Classique&quot;
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://beautysaloon-shop.fr/index.php?id_category=8&amp;controller=category" title="Vous ne recherchez que le meilleur pour vous, c&#039;est par ici ! 
+ Nouvelle Gamme Ultra fine en racine et rempli aux pointes 
+ du 18&quot; au 26&quot; ">
+		Gamme &quot;Slim &amp; Full&quot;
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="https://beautysaloon-shop.fr/index.php?id_category=13&amp;controller=category" title="Réservez ici facilement et rapidement 
+ Vos rendez vous en Salon">
+		RdV &amp; Acompte
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="https://beautysaloon-shop.fr/index.php?id_category=14&amp;controller=category" title="Retrouvez ici notre selections de lisseurs  
+ ultra performant">
+		LISSEURS
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="https://beautysaloon-shop.fr/index.php?id_category=15&amp;controller=category" title="Prenez   soin de vos cheveux   
+  et de vos extensions avec nos produits adaptés.">
+		COSMETIQUES &amp; ENTRETIENT
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="https://beautysaloon-shop.fr/index.php?id_category=16&amp;controller=category" title="">
+		TISSAGE
+	</a>
+			<ul>
+												
+<li class="last">
+	<a 
+	href="https://beautysaloon-shop.fr/index.php?id_category=17&amp;controller=category" title="">
+		LISSE
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+							
+																
+<li class="last">
+	<a 
+	href="https://beautysaloon-shop.fr/index.php?id_category=18&amp;controller=category" title="">
+		KIT LISSAGE TANIN PRO
+	</a>
+	</li>
+
+							
+										</ul>
+		</div>
+	</div> <!-- .category_footer -->
+</section>
+<!-- /Block categories module -->
+	<!-- Block CMS module footer -->
+	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
+		<h4>Informations</h4>
+		<ul class="toggle-footer">
+																<li class="item">
+					<a href="https://beautysaloon-shop.fr/index.php?controller=stores" title="Nos magasins">
+						Nos magasins
+					</a>
+				</li>
+									<li class="item">
+				<a href="https://beautysaloon-shop.fr/index.php?controller=contact" title="Contactez-nous">
+					Contactez-nous
+				</a>
+			</li>
+															<li class="item">
+						<a href="https://beautysaloon-shop.fr/index.php?id_cms=1&amp;controller=cms" title="Livraison">
+							Livraison
+						</a>
+					</li>
+																<li class="item">
+						<a href="https://beautysaloon-shop.fr/index.php?id_cms=2&amp;controller=cms" title="Mentions légales">
+							Mentions légales
+						</a>
+					</li>
+																<li class="item">
+						<a href="https://beautysaloon-shop.fr/index.php?id_cms=3&amp;controller=cms" title="Conditions générales d&#039;utilisation">
+							Conditions générales d&#039;utilisation
+						</a>
+					</li>
+																<li class="item">
+						<a href="https://beautysaloon-shop.fr/index.php?id_cms=4&amp;controller=cms" title="A propos de nous">
+							A propos de nous
+						</a>
+					</li>
+																<li class="item">
+						<a href="https://beautysaloon-shop.fr/index.php?id_cms=5&amp;controller=cms" title="PAIEMENT SECURISE">
+							PAIEMENT SECURISE
+						</a>
+					</li>
+												</ul>
+		
+	</section>
+		<!-- /Block CMS module footer -->
+<!-- Block myaccount module -->
+<section class="footer-block col-xs-12 col-sm-4">
+	<h4><a href="https://beautysaloon-shop.fr/index.php?controller=my-account" title="Gérer mon compte client" rel="nofollow">Mon compte</a></h4>
+	<div class="block_content toggle-footer">
+		<ul class="bullet">
+			<li><a href="https://beautysaloon-shop.fr/index.php?controller=history" title="Mes commandes" rel="nofollow">Mes commandes</a></li>
+						<li><a href="https://beautysaloon-shop.fr/index.php?controller=order-slip" title="Mes avoirs" rel="nofollow">Mes avoirs</a></li>
+			<li><a href="https://beautysaloon-shop.fr/index.php?controller=addresses" title="Mes adresses" rel="nofollow">Mes adresses</a></li>
+			<li><a href="https://beautysaloon-shop.fr/index.php?controller=identity" title="Gérer mes informations personnelles" rel="nofollow">Mes informations personnelles</a></li>
+			<li><a href="https://beautysaloon-shop.fr/index.php?controller=discount" title="Mes bons de réduction" rel="nofollow">Mes bons de réduction</a></li>			
+            		</ul>
+	</div>
+</section>
+<!-- /Block myaccount module -->
+<!-- MODULE Block contact infos -->
+<section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
+	<div>
+        <h4>Informations sur votre boutique</h4>
+        <ul class="toggle-footer">
+                        	<li>
+            		<i class="icon-map-marker"></i>BEAUTY SALOON Paris, Show Room
+68 Avenue de la Grande Armée
+75017 Paris            	</li>
+                                    	<li>
+            		<i class="icon-phone"></i>Appelez-nous au : 
+            		<span>07.67.80.70.49</span>
+            	</li>
+                                    	<li>
+            		<i class="icon-envelope-alt"></i>E-mail : 
+            		<span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%62%65%61%75%74%79.%73%61%6c%6f%6f%6e.%37%35@%67%6d%61%69%6c.%63%6f%6d" >&#x62;&#x65;&#x61;&#x75;&#x74;&#x79;&#x2e;&#x73;&#x61;&#x6c;&#x6f;&#x6f;&#x6e;&#x2e;&#x37;&#x35;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a></span>
+            	</li>
+                    </ul>
+    </div>
+</section>
+<!-- /MODULE Block contact infos -->
+<!-- Block Newsletter module-->
+<div id="newsletter_block_left" class="block">
+	<h4>Lettre d'informations</h4>
+	<div class="block_content">
+		<form action="//beautysaloon-shop.fr/index.php" method="post">
+			<div class="form-group" >
+				<input class="inputNew form-control grey newsletter-input" id="newsletter-input" type="text" name="email" size="18" value="Saisissez votre adresse e-mail" />
+                <button type="submit" name="submitNewsletter" class="btn btn-default button button-small">
+                    <span>ok</span>
+                </button>
+				<input type="hidden" name="action" value="0" />
+			</div>
+		</form>
+	</div>
+    
+</div>
+<!-- /Block Newsletter module-->
+<section id="social_block" class="pull-right">
+	<ul>
+					<li class="facebook">
+				<a class="_blank" href="https://www.facebook.com/BeautySaloonParis/?fref=ts">
+					<span>Facebook</span>
+				</a>
+			</li>
+						                                                	<li class="instagram">
+        		<a class="_blank" href="https://www.instagram.com/beautysaloonparis/">
+        			<span>Instagram</span>
+        		</a>
+        	</li>
+        	</ul>
+    <h4>Nous suivre</h4>
+</section>
+<div class="clearfix"></div>
+</div>
+					</footer>
+				</div><!-- #footer -->
+					</div><!-- #page -->
+</body></html>
